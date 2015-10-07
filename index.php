@@ -53,7 +53,7 @@
     <body>
 
         <form>
-            <ul class="errorMessages"></ul>
+            <ul class="errorMessages makeno-test"></ul>
 
             <div>
                 <label for="name">Name:</label>
